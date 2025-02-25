@@ -1,42 +1,42 @@
 ![PagerDuty](assets/img/headers/Postmortems-Title.png)
 
-Performing postmortems after incidents is how you learn what you're doing right, where you could improve, and most importantly, how to avoid making the same mistakes again and again. Well-designed postmortems allow your teams to iteratively improve your infrastructure and incident response process.
+インシデント発生後にポストモーテムを実施することで、何がうまくいったのか、どこを改善できるのか、そして最も重要なことに、同じ間違いを繰り返さないための方法を学ぶことができます。適切に設計されたポストモーテムにより、チームはインフラストラクチャとインシデント対応プロセスを段階的に改善することができます。
 
-The postmortem concept is well known in the technology industry, but it can be difficult for newer individuals, teams, and organizations to adopt the cultural nuances required for effective postmortems. This guide will teach you how to build a culture of continuous learning, the most important components to include in your analysis, and how to conduct effective postmortem meetings.
+ポストモーテムの概念はテクノロジー業界ではよく知られていますが、効果的なポストモーテムに必要な文化的ニュアンスを新しい個人、チーム、組織が取り入れるのは難しい場合があります。このガイドでは、継続的な学習の文化を構築する方法、分析に含めるべき最も重要な要素、そして効果的なポストモーテムミーティングを実施する方法について説明します。
 
-## Who Is This For?
-This resource is for on-call practitioners who want to iteratively learn from incidents affecting their team and for managers who want to cultivate a culture of learning in their organization.
+## 対象者
+このリソースは、チームに影響を与えるインシデントから段階的に学びたいオンコール担当者や、組織内に学習の文化を育みたいマネージャーを対象としています。
 
-## What Is Covered?
-### What Is a Postmortem?
-The who, what, when, and why of [postmortems](what_is.md).
+## 内容
+### ポストモーテムとは
+[ポストモーテム](what_is.md)の誰が、何を、いつ、なぜ。
 
-### Blameless Culture
-A successful postmortem process is based on a culture of honesty, learning, and accountability. Culture change requires management buy-in, but you can lead culture change no matter your role. This section describes common challenges in building a culture of continuous learning through postmortems, and strategies for overcoming them.
+### ブレームレスな文化
+成功するポストモーテムプロセスは、誠実さ、学習、そして説明責任の文化に基づいています。文化の変革には経営陣の賛同が必要ですが、あなたの役割に関わらず文化の変革をリードすることができます。このセクションでは、ポストモーテムを通じて継続的な学習の文化を構築する際の一般的な課題と、それらを克服するための戦略について説明します。
 
-- [The Blameless Postmortem](culture/blameless.md)
-- [How to Introduce Postmortems](culture/introduce.md)
-- [Information Sharing](culture/sharing.md)
-- [Accountability](culture/accountability.md)
+- [ブレームレスなポストモーテム](culture/blameless.md)
+- [ポストモーテムの導入方法](culture/introduce.md)
+- [情報共有](culture/sharing.md)
+- [説明責任](culture/accountability.md)
 
-### How to Write a Postmortem
-You will learn what information to include in the postmortem, how to collect and present that information, and how to conduct an effective analysis that results in system improvements.
+### ポストモーテムの書き方
+ポストモーテムに含めるべき情報、その情報の収集と提示方法、そしてシステムの改善につながる効果的な分析の実施方法について学びます。
 
-- [Step by Step](how_to_write/writing.md)
-- [Tips for Effective Postmortems](how_to_write/effective_postmortems.md)
+- [ステップバイステップ](how_to_write/writing.md)
+- [効果的なポストモーテムのためのヒント](how_to_write/effective_postmortems.md)
 
-### Postmortem Meetings
-How to conduct productive [postmortem meetings](meeting.md).
+### ポストモーテムミーティング
+生産的な[ポストモーテムミーティング](meeting.md)の実施方法。
 
-### Additional Resources
+### 追加リソース
 
-- [Template](resources/post_mortem_template.md)
-- [Checklist](resources/checklist.md)
-- [Analysis Questions](resources/analysis.md)
-- [Examples](resources/examples.md)
-- [Further Reading](resources/reading.md)
+- [テンプレート](resources/post_mortem_template.md)
+- [チェックリスト](resources/checklist.md)
+- [分析の質問](resources/analysis.md)
+- [例](resources/examples.md)
+- [参考文献](resources/reading.md)
 
-### License
-This documentation is provided under the Apache License 2.0. In plain English that means you can use and modify this documentation and use it both commercially and for private use. However, you must include any original copyright notices, and the original LICENSE file.
+### ライセンス
+このドキュメントはApache License 2.0の下で提供されています。簡単に言えば、このドキュメントを使用および修正し、商業的にも個人的にも使用することができます。ただし、元の著作権表示と元のLICENSEファイルを含める必要があります。
 
-Whether you are a PagerDuty customer or not, we want you to have the ability to use this documentation internally at your own company. You can view the source code for all of this documentation on our GitHub account, feel free to fork the repository and use it as a base for your own internal documentation.
+PagerDutyのお客様であるかどうかに関わらず、このドキュメントを自社内で使用する能力を持っていただきたいと考えています。このドキュメントのソースコードはすべて当社のGitHubアカウントで閲覧でき、リポジトリをフォークして独自の内部ドキュメントのベースとして使用することができます。
