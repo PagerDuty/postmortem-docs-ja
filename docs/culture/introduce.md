@@ -1,31 +1,31 @@
 ---
 cover:
-description: A successful postmortem process is based on a culture of honesty, learning, and accountability. Culture change requires management buy-in, but you can lead culture change no matter your role. This guide describes common challenges faced in building a culture of continuous learning through postmortems and strategies for overcoming these challenges.
+description: 成功するポストモーテムプロセスは、誠実さ、学習、そして説明責任の文化に基づいています。文化の変革には経営陣の賛同が必要ですが、あなたの役割に関わらず文化の変革をリードすることができます。このガイドでは、ポストモーテムを通じた継続的学習の文化を構築する際に直面する一般的な課題と、それらを克服するための戦略について説明します。
 ---
 ![How to Introduce](../assets/img/headers/Postmortems-Introduce.png)
 
-Whether you're introducing postmortems as an entirely new practice at your organization or working to improve an existing process, culture change is hard. No matter your role, the first step to introducing a new process is getting buy-in from leadership and individual contributors because, often, bottom-up changes are more successful than top-down mandates from management.
+ポストモーテムを組織に全く新しい実践として導入する場合でも、既存のプロセスを改善する場合でも、文化の変革は難しいものです。あなたの役割に関わらず、新しいプロセスを導入する最初のステップは、リーダーシップと個々の貢献者から賛同を得ることです。なぜなら、多くの場合、ボトムアップの変化は経営陣からのトップダウンの指示よりも成功する可能性が高いからです。
 
-To practice blameless postmortems and encourage a culture of continuous improvement, you need commitment from leadership that no individuals will be reprimanded in any way after an incident.
+非難のないポストモーテムを実践し、継続的改善の文化を促進するためには、インシデント後に個人が何らかの形で叱責されることはないというリーダーシップからのコミットメントが必要です。
 
-To convince management to support a shift to blameless analysis, clarify how blame is harmful to the business and explain the business value of blamelessness. For instance, punishing individuals for "causing" incidents discourages people from speaking up when problems occur for fear of being blamed. This silence will increase the mean time to acknowledge incidents, mean time to resolve, and, ultimately, exacerbate the impact of incidents. Organizations can rapidly improve the resilience of their systems and increase the speed of innovation by eliminating the fear of blame and encouraging collaborative learning.
+非難のない分析へのシフトを経営陣に納得させるためには、非難がビジネスにどのように有害であるかを明確にし、非難のなさのビジネス価値を説明してください。例えば、インシデントを「引き起こした」個人を罰することは、非難されることを恐れて問題が発生したときに発言することを躊躇させます。この沈黙はインシデントの平均確認時間、平均解決時間を増加させ、最終的にはインシデントの影響を悪化させます。組織は、非難の恐怖を排除し、協力的な学習を奨励することで、システムの回復力を迅速に向上させ、イノベーションのスピードを上げることができます。
 
-It may sound silly, but when selling a new blameless postmortem process to management, avoid blaming them for blaming others. Acknowledge that practicing blamelessness is difficult for everyone. Teams can help hold each other accountable by calling each other out when blame is observed in response to failure. Ask leadership if they will be receptive to receiving that feedback if and when they accidentally suggest blame after an incident.
+奇妙に聞こえるかもしれませんが、経営陣に非難のないポストモーテムプロセスを売り込む際には、他者を非難したことで経営陣を非難することは避けてください。非難のなさを実践することは誰にとっても難しいことを認識してください。チームは、インシデント後に非難が観察された場合、お互いに責任を持ち、指摘することができます。リーダーシップがインシデント後に誤って非難を示唆した場合、そのフィードバックを受け入れる意思があるかどうかを尋ねてください。
 
-A verbal commitment from management to refrain from punishing people for causing incidents is an important start to introducing blameless postmortems, but that alone will not eliminate the fear of blame. Once you have leadership support, you will also need buy-in from the individual contributors who will be performing postmortem analysis. Share that you have commitment from management that no one will be punished after an incident. Because the tendency to blame is not unique to managers, explain to the team why blame is harmful to trust and collaboration. Agree to work together to become more blame-aware and kindly call each other out when blame is observed.
+インシデントを引き起こしたことで人々を罰しないという経営陣からの口頭でのコミットメントは、非難のないポストモーテムを導入する重要な第一歩ですが、それだけでは非難の恐怖を排除するには不十分です。リーダーシップの支持を得たら、ポストモーテム分析を実行する個々の貢献者からも賛同を得る必要があります。インシデント後に誰も罰せられないという経営陣からのコミットメントを共有してください。非難が信頼と協力に有害である理由をチームに説明してください。非難をより意識し、非難が観察されたときにお互いに優しく指摘することに協力することに同意してください。
 
-When Google studied their teams to learn what behaviors made groups successful, they found that psychological safety was the most critical factor for a team work well together. Harvard Business School professor Amy Edmondson defines psychological safety as "a sense of confidence that the team will not embarrass, reject, or punish someone for speaking up." A sense of safety makes people feel comfortable enough to share information about incidents, which allows for deeper analysis and results in learnings that improve the resilience of your systems.
+Googleがチームを研究して、グループを成功させる行動を学んだとき、心理的安全性がチームがうまく協力するための最も重要な要素であることがわかりました。ハーバード・ビジネス・スクールの教授エイミー・エドモンドソンは、心理的安全性を「チームが発言することで誰かを恥じさせたり、拒絶したり、罰したりしないという自信」と定義しています。安全の感覚は、インシデントに関する情報を共有するのに十分な快適さを人々に与え、それによってより深い分析が可能になり、システムの回復力を向上させる学びにつながります。
 
-Google found that high-performing teams with strong psychological safety share two key behaviors. First, these teams demonstrate conversational turn-taking. Team members speak in roughly the same proportion. When everyone is able to share their perspective, the collective intelligence of the group increases. Second, good teams have high social sensitivity or empathy. Successful teams are able to sense when someone is feeling upset or left out based on nonverbal cues.
+Googleは、心理的安全性の高い高パフォーマンスチームが2つの重要な行動を共有していることを発見しました。まず、これらのチームは会話のターンテイキングを示します。チームメンバーはほぼ同じ割合で話します。全員が自分の視点を共有できるとき、グループの集合知が増加します。第二に、良いチームは高い社会的感受性または共感を持っています。成功したチームは、非言語的な手がかりに基づいて誰かが動揺したり取り残されたりしていることを感じることができます。
 
-These behaviors and the resulting sense of psychological safety can be encouraged by modeling vulnerability. A manager at Google found his team was able to find ways to work better together after doing an ice-breaker activity in which everyone shared something personal about themselves. The manager started by telling the team about his struggle with cancer, which helped everyone else feel more comfortable sharing something. Creating emotional bonds within a team leads to greater psychological safety and higher performance.
+これらの行動と結果としての心理的安全性の感覚は、脆弱性をモデル化することで奨励することができます。Googleのマネージャーは、全員が自分自身について何か個人的なことを共有するアイスブレーカー活動をした後、チームがより良く協力する方法を見つけることができたことに気づきました。マネージャーはがんとの闘いについてチームに話すことから始め、それが他の全員がより快適に共有することを助けました。チーム内で感情的な絆を作ることは、より大きな心理的安全性と高いパフォーマンスにつながります。
 
-Culture change does not happen overnight. Iteratively introduce new practices to the organization by starting small, sharing successful results of experimenting with new practices, and slowly expanding those practices across teams. You can start experimenting with blameless postmortems within a single team. To get started, use our ["How to Write a Postmortem"](../how_to_write/writing.md) guide to share tips.
+文化の変革は一夜にして起こるものではありません。新しい実践を組織に反復的に導入するには、小さく始め、新しい実践で実験することの成功した結果を共有し、それらの実践をチーム間で徐々に拡大していきます。単一のチーム内で非難のないポストモーテムの実験を始めることができます。始めるには、私たちの[「ポストモーテムの書き方」](../how_to_write/writing.md)ガイドを使用してヒントを共有してください。
 
-It is also easy to start practicing blameless postmortems by analyzing smaller incidents before tackling major ones. Doing postmortems for smaller incidents allows the team to develop the skill of deeper system analysis that goes beyond how people contributed to an incident. This also helps protect individuals while everyone is practicing blameless culture as people may revert to blame, but the impact on the individual will be less than if that same mistake happens with a more critical incident.
+また、より小さなインシデントのポストモーテムを実践することから始めるのも簡単です。より小さなインシデントのポストモーテムを行うことで、チームはインシデントへの人々の貢献を超えた、より深いシステム分析のスキルを開発することができます。これはまた、全員が非難のない文化を実践している間、個人を保護するのにも役立ちます。人々は非難に戻るかもしれませんが、同じミスがより重大なインシデントで起こった場合よりも、個人への影響は少なくなります。
 
-!!! info "Key Takeaways"
-    - Sell the business value of blamelessness: faster incident resolution, more resilient systems, more time for innovation
-    - Commit to kindly calling each other out when blame is observed
-    - Start with a single team
-    - Start with smaller incidents
+!!! info "重要なポイント"
+    - 非難のなさのビジネス価値を売り込む：より迅速なインシデント解決、より回復力のあるシステム、イノベーションのための時間の増加
+    - 非難が観察されたときにお互いに優しく指摘することを約束する
+    - 単一のチームから始める
+    - より小さなインシデントから始める
